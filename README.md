@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 AutoDAO Engineer
 
 AutoDAO Engineer is a generative multi-agent system to scaffold fully functional DAOs from plain English using LLMs + Chainlink Functions + IPFS.
